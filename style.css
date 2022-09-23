@@ -160,3 +160,19 @@
         transform: rotate(0);
     }
 }
+
+/* Gli ultimi due li ho dovuti vedere dalle soluzioni purtroppo, l'ultimo nn mi è chiarissimo cmq😢*/
+
+/* es12 */ 
+.ex-12-button:hover .ex-12-top-white {
+    animation: whitetop 2s ;
+}
+@keyframes whitetop {
+    
+
+ }
+
+.ex-12-button:hover .ex-12-bottom-white {
+    animation: whitetop 2s;
+}
+
